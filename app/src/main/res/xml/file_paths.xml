@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Accès au cache de l'app pour les photos temporaires -->
+    <cache-path name="cache" path="." />
+    <!-- Accès au stockage externe si besoin -->
+    <external-files-path name="external_files" path="." />
+</paths>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Palette - Bleu voyage -->
+    <color name="primary">#2E86AB</color>
+    <color name="primary_variant">#1A5F7A</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary - Accent rose pour les actions -->
+    <color name="secondary">#A23B72</color>
+    <color name="secondary_variant">#8A2C5E</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <!-- Background & Surface -->
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1A1A2E</color>
+    <color name="on_background">#1A1A2E</color>
+
+    <!-- États -->
+    <color name="error">#E63946</color>
+    <color name="success">#2A9D8F</color>
+
+    <!-- Utilitaires -->
+    <color name="gray_100">#F1F5F9</color>
+    <color name="gray_300">#CBD5E1</color>
+    <color name="gray_600">#64748B</color>
+</resources>
